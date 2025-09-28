@@ -1,0 +1,7 @@
+<suite name="CredoBusinessTests" verbose="1">
+    <test name="CucumberTests">
+        <classes>
+            <class name="runner.CucumberTestRunner"/>
+        </classes>
+    </test>
+</suite>
